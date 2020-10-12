@@ -1,4 +1,4 @@
-#will allow us to make requests
+
 import requests
 import hashlib 
 import sys
